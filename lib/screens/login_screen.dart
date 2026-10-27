@@ -255,7 +255,7 @@ class _LoginScreenState extends State<LoginScreen> {
                               style: const TextStyle(fontSize: 13),
                               decoration: InputDecoration(
                                 labelText: 'Backend API URL',
-                                hintText: 'http://127.0.0.1:5000',
+                                hintText: 'https://spin2build-admin.onrender.com',
                                 prefixIcon: const Icon(Icons.dns_rounded, size: 20),
                                 border: OutlineInputBorder(
                                   borderRadius: BorderRadius.circular(10),
